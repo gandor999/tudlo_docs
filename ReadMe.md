@@ -34,7 +34,7 @@
 - [ ] What is SOLID
 
 ## API and REST
-- [ ] Quick overview
+- [ ] Quick [overview](https://www.ibm.com/think/topics/rest-apis)
 
 ## SpringBoot
 - [ ] The MVC architectural pattern
