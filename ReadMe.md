@@ -33,6 +33,9 @@
 ## SOLID
 - [ ] What is SOLID
 
+## API and REST
+- [ ] Quick overview
+
 ## SpringBoot
 - [ ] The MVC architectural pattern
 - [ ] The Unidirectional Flow Patter or UDF
