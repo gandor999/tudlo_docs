@@ -1,25 +1,28 @@
 # Outline
 
 ## Things to install
-- [ ] VsCode
-- [ ] Intellij or JetBrains Toolbox
-- [ ] Markdown plugin on VsCode
-- [ ] Java 17 of Microsoft
+- [x] VsCode
+- [x] Intellij or JetBrains Toolbox
+- [x] Markdown plugin on VsCode
+- [x] Java 17 of Microsoft
 - [ ] A github account
-- [ ] Git
-- [ ] Postman
+- [x] Git
+- [x] Postman
+- [ ] Make a postman account
 
 ## Java
-- [ ] What is Java
-- [ ] How to run hello world on Java
-- [ ] Java data types
+- [x] What is Java
+- [x] How to run hello world on Java
+- [x] Java data types
 - [ ] Arrays
 - [ ] Loops
 - [ ] Classes
+- [ ] Functions or Methods
 - [ ] Access modifiers
 - [ ] Collections
 - [ ] Access modifiers
 - [ ] Interfaces
+- [ ] Casting
 - [ ] Threads
 
 ## Object Oriented Programming
@@ -32,6 +35,9 @@
 
 ## SOLID
 - [ ] What is SOLID
+
+## Git
+- [ ] Pushing 
 
 ## API and REST
 - [ ] Quick [overview](https://www.ibm.com/think/topics/rest-apis)
